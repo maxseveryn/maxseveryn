@@ -1,8 +1,9 @@
 <h1 align="center" style="color:#F7183B;">Maxym Severyn</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7183B&center=true&vCenter=true&width=435&lines=Front-End+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7183B&center=true&vCenter=true&width=435&lines=Front-End+Developer;Software+Engineer;Student" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
