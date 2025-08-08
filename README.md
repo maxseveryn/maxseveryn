@@ -1,7 +1,23 @@
-<h1 align="center" color="#F7183BFF">Maxym Severyn</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7183B&width=435&lines=Front-End+Developer)](https://git.io/typing-svg)
+<h1 align="center" style="color:#F7183B;">Maxym Severyn</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,git,github,figma,vscode)](https://skillicons.dev)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7183B&center=true&vCenter=true&width=435&lines=Front-End+Developer" alt="Typing SVG" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxseveryn&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxseveryn&layout=compact)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,figma,vscode" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:severinmaksim055@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/maxseveryn">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/maxym-severyn/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
